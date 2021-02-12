@@ -1,7 +1,7 @@
 from provinces import nei
 
-main_list = []  # shahr haye rang nashode
-color_prov = [] #shahr haye rang shode
+main_list = []  # Unpainted provinces 
+color_prov = [] # Painted provinces 
 
 class province():
     def __init__(self, name):
